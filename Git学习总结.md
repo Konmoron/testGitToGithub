@@ -40,7 +40,7 @@ $ mkdir testGitToGithub
 cd testGitToGithub
 git init
 ```
-此时，该文件夹下面会有一个隐藏的`.git`文件夹
+此时，该文件夹下面会有一个隐藏的`.git`文件夹  
 3.关联Github代码仓库
 ```
 git remote add origin https://github.com/Konmoron/testGitToGithub.git
