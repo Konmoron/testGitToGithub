@@ -56,6 +56,13 @@ git add .
 ```
 git commit -m "Commit_Message"
 ``` 
+7. 上传本地仓库
+```
+git push -u origin master
+```
 
-
+## 重命名
+```
+git mv [file-original] [file-renamed]
+```
 
