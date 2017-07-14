@@ -1,9 +1,11 @@
 # tag的使用
 ****
-## 新增文件[test-tag.txt](resources/test-tag.txt)
+## 新增文件[test-tag.txt](./resources/test-tag.txt)
 初始内容为：
 > This is a file to test tag!
+>
 > There is a bug in this!!!!!!!!!!!!!!!
+> 
 > write other program!
 
 ## 添加并提交
@@ -58,18 +60,27 @@ git merge master
 此时会有冲突，合并的文件为：
 
 > This is a file to test tag!
+> 
 > Fix this bug in this //There is a bug in this!!!!!!!!!!!!!!!
+> 
 > write other program!
+> 
 > <<<<<<< HEAD
+> 
 > write something!
+> 
 > \=======
+> 
 > \>>>>>>> master
 
 修改冲突，将修改bug后的代码添加到[test-tag.txt](resources/test-tag.txt)里面，修改后的文件为：
 
 > This is a file to test tag!
+> 
 > Fix this bug in this //There is a bug in this!!!!!!!!!!!!!!!
+> 
 > write other program!
+> 
 > write something!
 
 ## 添加并提交
