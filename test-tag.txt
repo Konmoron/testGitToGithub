@@ -1,7 +1,5 @@
 This is a file to test tag!
 
-Fix this bug in this //There is a bug in this!!!!!!!!!!!!!!!
+There is a bug in this!!!!!!!!!!!!!!!
 
 write other program!
-
-wirte something!
