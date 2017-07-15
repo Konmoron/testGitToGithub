@@ -89,3 +89,9 @@ git add test-tag.txt
 git commit -m "fix conflict in test-tag.txt"
 ```
 修改完成，bug修复完毕，即可继续编写其他代码。
+
+## 删除标签
+### 删除本地标签
+`git tag -d <tag-name>`
+### 删除远程标签
+`git push origin --delete <tag-name>`
