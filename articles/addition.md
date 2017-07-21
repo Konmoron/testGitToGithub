@@ -56,7 +56,7 @@
 </div>
 <p align="center">图 5</p>
 然后参照
-[权限控制](/articles/access.md#jump1)
+[权限控制](/articles/access.md/#   )
 进行对应的授权操作。
 
 <div id="服务自愈"></div>
