@@ -26,7 +26,7 @@
 </div>
 <p align="center">图 2</p>
 然后参照
-[权限控制](#jump)
+[权限控制1](#jump)
 进行对应的授权操作。
 
 <div id="中间件权限"></div>
@@ -44,7 +44,7 @@
 </div>
 <p align="center">图 4</p>
 然后参照
-[权限控制](/articles/access.md)
+[权限控制2](/articles/access.md)
 进行对应的授权操作。
 
 <div id="镜像权限"></div>
@@ -57,7 +57,7 @@
 </div>
 <p align="center">图 5</p>
 然后参照
-[权限控制](/articles/access.md)
+[权限控制3](/articles/access.md)
 进行对应的授权操作。
 
 <div id="服务自愈"></div>
