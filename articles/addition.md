@@ -25,9 +25,8 @@
 <img src="/articles/cloud/4-/images/2.jpg"/>
 </div>
 <p align="center">图 2</p>
-然后参照
-[权限控制1](#jump)
-进行对应的授权操作。
+
+然后参照[权限控制1](#jump)进行对应的授权操作。
 
 <div id="中间件权限"></div>
 
@@ -43,9 +42,8 @@
 <img src="/articles/cloud/4-/images/4.jpg"/>
 </div>
 <p align="center">图 4</p>
-然后参照
-[权限控制2](/articles/access.md)
-进行对应的授权操作。
+
+然后参照[权限控制2](/articles/access.md)进行对应的授权操作。
 
 <div id="镜像权限"></div>
 
@@ -56,9 +54,8 @@
 <img src="/articles/cloud/4-/images/5.jpg"/>
 </div>
 <p align="center">图 5</p>
-然后参照
-[权限控制3](/articles/access.md)
-进行对应的授权操作。
+
+然后参照[权限控制3](/articles/access.md)进行对应的授权操作。
 
 <div id="服务自愈"></div>
 
