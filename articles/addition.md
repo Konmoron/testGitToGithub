@@ -12,7 +12,8 @@
 <p align="center">图 1</p>
 
 然后参照
-[权限控制](/articles/access.md)
+<span id="jump">[权限控制](/articles/access.md)</span>
+
 进行对应的授权操作。
 
 <div id="资源池权限"></div> 
@@ -25,7 +26,7 @@
 </div>
 <p align="center">图 2</p>
 然后参照
-[权限控制](/articles/access.md)
+[权限控制](#jump)
 进行对应的授权操作。
 
 <div id="中间件权限"></div>
